@@ -1,0 +1,87 @@
+body{
+    background-image: url("backimage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.leftSide{
+    margin-top: 1em;
+}
+.topBanner{
+    height: 65px;
+    width: fit-content;
+    background-color: #312686;
+    border: 1px solid blue;
+    background-image: url("scifiNav.png");
+    background-repeat: no-repeat;
+    
+}
+
+
+
+.navTxt{
+    font-size: 35px;
+    color: white;
+    
+    
+}
+.navA{
+    margin-left: -5px;
+}
+.navA2{
+    margin-left: 17.9em;
+}
+.navA3{
+    margin-left: 10px;
+}
+.borderStyle{
+    border: 1px solid red; 
+    height: 45px;
+    width: 67px;
+    margin-top: 10px;
+}
+.borderStyle2{
+    border: 1px solid red; 
+    height: 47px;
+    width: 57px;
+    margin-top: 9px;
+    
+}
+
+  .characterStats p {
+    margin-bottom: 0.5rem;
+    padding: 5px;
+    border-radius: 4px;
+}
+.sideLink{
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+    display: block; 
+}
+.sideLink:hover{
+    background: rgba(33, 150, 243, 0.1);
+    color: #2196f3;
+}
+
+.characterCard{
+    background: rgba(33, 150, 243, 0.1);
+    border: 1px solid #2196f3;
+    border-radius: 8px;
+}
+
+.tableStats{
+    margin-top: 12%;
+}
+.tranBack{
+    background: rgba(33, 150, 243, 0.1);
+}
+.tranBackDarker{
+    background: rgba(33, 150, 243, 0.6);
+}
+.serverStats{
+    margin-top: 16em;
+}
+.rightSide{
+    margin-top: 8em;
+}
