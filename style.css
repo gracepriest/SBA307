@@ -1,3 +1,9 @@
+body{
+    background-image: url("backimage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
 
 .navbar-nav a:hover{
     color: #3498db !important;
@@ -8,9 +14,15 @@
 .links a:hover{
 
 color:rgb(252, 181, 4);
-background-color: #34495e;
+background-color: rgba(33, 150, 243, 0.1) !important;
 }
 
 .loginLink a:hover{
-    background-color: #34495e;
+    color:rgb(252, 181, 4);
+    background-color: rgba(33, 150, 243, 0.1) !important;
+}
+
+.create a:hover{
+    background-color:rgba(33, 150, 243, 0.1) !important;
+    font-size: 20px;
 }
