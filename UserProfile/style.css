@@ -17,7 +17,13 @@ body{
     
 }
 
-
+.navTop{
+    color: white;
+    font-size: larger;
+}
+.navTop:hover{
+    color:#2196f3;
+}
 
 .navTxt{
     font-size: 35px;
